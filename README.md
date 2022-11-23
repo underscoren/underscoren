@@ -2,7 +2,7 @@
 
 Here's a few of them
 
-### Cell - Falling Sand Physics Game (Source Unavailible)
+### Cell - Falling Sand Physics Game (Source Unavailable)
 
 <p>
     <img src="img/fallingsand.png" width="300" />
